@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jontruong05
-- 👀 I’m interested in coding/creating software
-- 🌱 I have finished AP Computer Science A
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in software engineering, AI/ML and CS/DS education
+- 🌱 I am currently studying Computer Organization and Systems Programming
 - 📫 How to reach me: jontruong98@gmail.com 
 
 <!---
