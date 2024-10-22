@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jontruong05
 - 👀 I’m interested in software engineering, AI/ML and CS/DS education
-- 🌱 The most recent CS classes I've finished are Basic Data Structures and Computer Organization and Systems Programming
+- 🌱 I am currently studying Design and Analysis of Algorithms and Software Engineering
 - 📫 How to reach me: jontruong98@gmail.com 
 
 <!---
