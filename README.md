@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jontruong05
 - 👀 I’m interested in software engineering, AI/ML and CS/DS education
-- 🌱 I am currently studying Databases, Probabilistic Machine Learning, and Theory of Computability
+- 🌱 I am currently studying Recommender Systems and Web Mining
 - 📫 How to reach me: jontruong98@gmail.com 
 
 <!---
