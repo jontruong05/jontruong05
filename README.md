@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jontruong05
+- I recently graduated from the University of California, San Diego with a B.S. in Mathematics-Computer Science
 - 👀 I’m interested in software engineering, AI/ML and CS/DS education
-- 🌱 I am currently studying Recommender Systems and Web Mining
 - 📫 How to reach me: jontruong98@gmail.com 
 
 <!---
